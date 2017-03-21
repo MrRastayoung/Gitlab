@@ -12,4 +12,3 @@ xmllint \
 	--noout \
 	$file_out
 
-exit(0)
